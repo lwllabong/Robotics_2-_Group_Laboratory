@@ -1,2 +1,10 @@
 # Robotics_2-_Group_Laboratory
-assignment 
+Members:
+
+Louwella Abong
+
+Angela Atienza
+
+Stanlee Marasigan
+
+Shervin Reyes
